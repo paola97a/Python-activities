@@ -4,6 +4,7 @@ Si la suma de los 3 numeros es mayor a 15, va a devolver el número mayor.
 Si la suma de los 3 numeros es menor a 10, va a devolver el número menor. 
 Si la suma de los 3 numeros es un valor entre 10 y 15 (incluidos), va a devolver el número 
 de valor intermedio. 
+Autor: Angie Paola Guerrero Torres
 """
 
 def devolver_distintos(*numbers):

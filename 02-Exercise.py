@@ -1,6 +1,7 @@
 """
 Write a function that receive any word as param and return all 
 unique his letters (without repeat) but in alphabetical order.
+Author: Angie Paola Guerrero Torres
 """
 
 def get_unique_letters(word):
